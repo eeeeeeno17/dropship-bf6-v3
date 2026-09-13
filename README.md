@@ -2,7 +2,7 @@
 
 Modified version of dropship in order to support Battlefield 6
 
-and modified to support season 4 battlefield aws server(2.1 ver)
+and modified to support season 4 battlefield aws server(1.1 ver)
 
 First modified version : https://github.com/dualrandomness/dropship-bf6/releases/tag/v2
 
