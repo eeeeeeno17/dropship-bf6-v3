@@ -1,4 +1,33 @@
+# Dropship for Battlefield 6
 
+Modified version of dropship in order to support Battlefield 6
+
+support season 4 aws ranges ip
+---
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 # OW2 // DROPSHIP
 
 <!--
