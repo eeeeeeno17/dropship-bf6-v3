@@ -3,6 +3,8 @@
 Modified version of dropship in order to support Battlefield 6
 
 support season 4 aws ranges ip
+
+| <img src="https://github.com/eeeeeeno17/dropship-bf6-v3/blob/kor/dropship/assets/main.png" />
 ---
 
 .
