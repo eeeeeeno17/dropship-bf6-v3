@@ -1,12 +1,12 @@
 use eframe::egui::{self, ImageSource};
 
-pub const COMPANY_ICON_BATTLENET: ImageSource =
-    egui::include_image!("../assets/icons/company-icon-battlenet.svg");
+pub const COMPANY_ICON_EA: ImageSource =
+    egui::include_image!("../assets/icons/EAicon.png");
 pub const COMPANY_ICON_STEAM: ImageSource =
     egui::include_image!("../assets/icons/company-icon-steam.svg");
 
-pub const GAME_ICON_OVERWATCH: ImageSource =
-    egui::include_image!("../assets/icons/game-icon-overwatch.png");
+pub const GAME_ICON_EA: ImageSource =
+    egui::include_image!("../assets/icons/EAicon.png");
 
 pub const ICON_MAPLE_LEAF: ImageSource =
     egui::include_image!("../assets/icons/icon-maple-leaf.svg");

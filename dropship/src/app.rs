@@ -941,12 +941,12 @@ impl TemplateApp {
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
                     let image = match ty {
                         firewall::applications::ApplicationType::Blizzard => {
-                            assets::COMPANY_ICON_BATTLENET
+                            assets::COMPANY_ICON_EA
                         }
                         firewall::applications::ApplicationType::Valve => {
                             assets::COMPANY_ICON_STEAM
                         }
-                        _ => assets::GAME_ICON_OVERWATCH,
+                        _ => assets::GAME_ICON_EA,
                     };
 
                     let button = egui::Button::image_and_text(
